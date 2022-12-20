@@ -7,8 +7,8 @@ HI  eu sou a  Isa ✌🏻
 
 <div>
     <a href="https://github.com/IsabellaC4V3">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsabellaC4V3&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaC4V3&layout=compact&langs_count=16&theme=panda"/>
+    <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=IsabellaC4V3&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+    <img width="48%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaC4V3&layout=compact&langs_count=16&theme=panda"/>
     </a>
 </div>
 
